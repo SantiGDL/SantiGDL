@@ -2,19 +2,13 @@
 
 [🇬🇧 Read in English](https://github.com/SantiGDL)
 
-Me gusta entender cómo funcionan los sistemas, cómo se conectan sus distintos componentes y por qué algo falla cuando no se comporta como debería.
-
-Me atrae especialmente el desarrollo backend porque disfruto implementar soluciones, resolver problemas técnicos y prestar atención a los detalles que hacen que un sistema funcione correctamente.
-
-También disfruto experimentar con Linux, sistemas operativos, hardware y tecnología en general. Todavía estoy explorando distintas áreas del desarrollo, pero lo que más me motiva es entender cómo funcionan las cosas, resolver problemas y hacer que algo que no funcionaba termine funcionando.
+**Backend Developer | Java & Jakarta EE | REST APIs & Relational Databases**
 
 ## 🚀 Sobre mí
 
-Soy estudiante del último semestre del Tecnólogo en Informática en UTEC, radicado en Maldonado, Uruguay.
+Me gusta resolver problemas y entender cómo funcionan las cosas. Disfruto meterme en los detalles técnicos, descubrir por qué algo falla y encontrar una solución práctica.
 
-Me interesa desarrollar sistemas backend, APIs REST y aplicaciones full-stack. Mis principales áreas de interés son el desarrollo backend, diseño de APIs, arquitectura de software y la resolución de problemas reales mediante software.
-
-También cuento con experiencia profesional desarrollando una aplicación interna de gestión de inventario a partir de requerimientos reales de un cliente, además de experiencia en soporte IT y redes.
+Me interesa especialmente el desarrollo backend, las APIs y la integración entre sistemas. También disfruto experimentar con Linux, hardware y sistemas operativos, porque me gusta entender la tecnología más allá del código.
 
 ## 🛠️ Tecnologías
 
