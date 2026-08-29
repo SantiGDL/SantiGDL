@@ -2,9 +2,11 @@
 
 [🇬🇧 Read in English](https://github.com/SantiGDL)
 
-Desarrollador Junior Backend enfocado en desarrollo web y APIs REST, con una base sólida en Java, Jakarta EE y bases de datos relacionales.
+Me gusta entender cómo funcionan los sistemas, cómo se conectan sus distintos componentes y por qué algo falla cuando no se comporta como debería.
 
-Actualmente estoy ampliando mis conocimientos de backend con ASP.NET Core y C#, mientras también aprendo Flutter y Dart para desarrollo móvil.
+Me atrae especialmente el desarrollo backend porque disfruto implementar soluciones, resolver problemas técnicos y prestar atención a los detalles que hacen que un sistema funcione correctamente.
+
+También disfruto experimentar con Linux, sistemas operativos, hardware y tecnología en general. Todavía estoy explorando distintas áreas del desarrollo, pero lo que más me motiva es entender cómo funcionan las cosas, resolver problemas y hacer que algo que no funcionaba termine funcionando.
 
 ## 🚀 Sobre mí
 
