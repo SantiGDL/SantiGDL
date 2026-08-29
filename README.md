@@ -2,17 +2,13 @@
 
 [🇪🇸 Leer en Español](./README.es.md)
 
-Iḿ a 
+**Backend Developer | Java & Jakarta EE | REST APIs & Relational Databases**
 
 ## 🚀 About Me
 
-I enjoy understanding how systems work, how different components communicate, and why things fail when they don't behave as expected.
+I enjoy solving problems and understanding how things work. I like digging into technical details, figuring out why something fails, and finding a practical solution.
 
-I'm especially drawn to backend development because I like implementing solutions, working through technical problems, and paying attention to the small details that make systems work reliably.
-
-I also enjoy experimenting with technology outside of software development — from Linux and operating systems to restoring old hardware, troubleshooting devices, and finding new uses for older technology.
-
-I'm still exploring different areas of software development, but what consistently motivates me is learning how things work, solving problems, and turning something broken or incomplete into something that works.
+I'm especially interested in backend development, APIs, and system integration. I also enjoy experimenting with Linux, hardware, and operating systems because I like understanding technology beyond just the code.
 
 ## 🛠️ Tech Stack
 
