@@ -2,17 +2,17 @@
 
 [🇪🇸 Leer en Español](./README.es.md)
 
-Junior Backend Developer focused on web development and REST APIs, with a strong foundation in Java, Jakarta EE, and relational databases.
-
-Currently expanding my backend skills with ASP.NET Core and C#, while also learning Flutter and Dart for mobile development.
+Iḿ a 
 
 ## 🚀 About Me
 
-I'm a final-semester Technologist Degree in Computer Science student at UTEC, based in Maldonado, Uruguay.
+I enjoy understanding how systems work, how different components communicate, and why things fail when they don't behave as expected.
 
-I enjoy building backend systems, REST APIs, and full-stack applications. I'm especially interested in backend development, API design, software architecture, and solving real-world problems through software.
+I'm especially drawn to backend development because I like implementing solutions, working through technical problems, and paying attention to the small details that make systems work reliably.
 
-I also have professional experience developing an internal inventory management application from real client requirements, as well as providing IT and network support.
+I also enjoy experimenting with technology outside of software development — from Linux and operating systems to restoring old hardware, troubleshooting devices, and finding new uses for older technology.
+
+I'm still exploring different areas of software development, but what consistently motivates me is learning how things work, solving problems, and turning something broken or incomplete into something that works.
 
 ## 🛠️ Tech Stack
 
