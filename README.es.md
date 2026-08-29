@@ -1,6 +1,6 @@
 # Hola, soy Santiago Guadalupe 👋
 
-[🇬🇧 Read in English](./README.md)
+[🇬🇧 Read in English](https://github.com/SantiGDL)
 
 Desarrollador Junior Backend enfocado en desarrollo web y APIs REST, con una base sólida en Java, Jakarta EE y bases de datos relacionales.
 
